@@ -1,4 +1,4 @@
 # School-Assignments
-Name: Precious Adebowale
-Matric
-Department
+Name: Precious Adebowale <br>
+Matric <br>
+Department <br>
